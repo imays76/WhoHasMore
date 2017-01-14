@@ -7,4 +7,4 @@
 한 입 먹고, 버튼 한번 누른다.
 많이 누른 사람이 승리!
 
-![111](http://imgur.com/a/dnzUt)
+![](http://i.imgur.com/nmpiRrh.png)
