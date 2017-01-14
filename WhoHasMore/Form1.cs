@@ -22,13 +22,13 @@ namespace WhoHasMore
         private void button1_Click(object sender, EventArgs e)
         {
             s1++;
-            button1.Text = "배태환 : " + s1;
+            button1.Text = "맏아들 : " + s1;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             s2++;
-            button2.Text = "배지환 : " + s2;
+            button2.Text = "둘째아들 : " + s2;
 
         }
     }
