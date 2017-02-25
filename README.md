@@ -1,3 +1,5 @@
+이건 좀 구립니다. https://github.com/imays76/SpoonFight 로 넘어가세요~
+
 # WhoHasMore
 
 여러분의 애들이 밥을 잘 안 먹나요?
